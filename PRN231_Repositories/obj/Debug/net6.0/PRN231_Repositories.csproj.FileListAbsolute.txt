@@ -1,0 +1,17 @@
+D:\Private\FPT\Source\PRN231_Assignment\PRN231_Repositories\bin\Debug\net6.0\PRN231_Repositories.deps.json
+D:\Private\FPT\Source\PRN231_Assignment\PRN231_Repositories\bin\Debug\net6.0\PRN231_Repositories.runtimeconfig.json
+D:\Private\FPT\Source\PRN231_Assignment\PRN231_Repositories\bin\Debug\net6.0\PRN231_Repositories.dll
+D:\Private\FPT\Source\PRN231_Assignment\PRN231_Repositories\bin\Debug\net6.0\PRN231_Repositories.pdb
+D:\Private\FPT\Source\PRN231_Assignment\PRN231_Repositories\bin\Debug\net6.0\PRN231_Assignment.DomainModels.dll
+D:\Private\FPT\Source\PRN231_Assignment\PRN231_Repositories\bin\Debug\net6.0\PRN231_Assignment.DomainModels.pdb
+D:\Private\FPT\Source\PRN231_Assignment\PRN231_Repositories\obj\Debug\net6.0\PRN231_Repositories.csproj.AssemblyReference.cache
+D:\Private\FPT\Source\PRN231_Assignment\PRN231_Repositories\obj\Debug\net6.0\PRN231_Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Private\FPT\Source\PRN231_Assignment\PRN231_Repositories\obj\Debug\net6.0\PRN231_Repositories.AssemblyInfoInputs.cache
+D:\Private\FPT\Source\PRN231_Assignment\PRN231_Repositories\obj\Debug\net6.0\PRN231_Repositories.AssemblyInfo.cs
+D:\Private\FPT\Source\PRN231_Assignment\PRN231_Repositories\obj\Debug\net6.0\PRN231_Repositories.csproj.CoreCompileInputs.cache
+D:\Private\FPT\Source\PRN231_Assignment\PRN231_Repositories\obj\Debug\net6.0\PRN231_Repositories.csproj.CopyComplete
+D:\Private\FPT\Source\PRN231_Assignment\PRN231_Repositories\obj\Debug\net6.0\PRN231_Repositories.dll
+D:\Private\FPT\Source\PRN231_Assignment\PRN231_Repositories\obj\Debug\net6.0\refint\PRN231_Repositories.dll
+D:\Private\FPT\Source\PRN231_Assignment\PRN231_Repositories\obj\Debug\net6.0\PRN231_Repositories.pdb
+D:\Private\FPT\Source\PRN231_Assignment\PRN231_Repositories\obj\Debug\net6.0\PRN231_Repositories.genruntimeconfig.cache
+D:\Private\FPT\Source\PRN231_Assignment\PRN231_Repositories\obj\Debug\net6.0\ref\PRN231_Repositories.dll

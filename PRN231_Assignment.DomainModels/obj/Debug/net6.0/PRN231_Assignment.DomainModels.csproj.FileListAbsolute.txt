@@ -1,0 +1,14 @@
+D:\Private\FPT\Source\PRN231_Assignment\PRN231_Assignment.DomainModels\bin\Debug\net6.0\PRN231_Assignment.DomainModels.deps.json
+D:\Private\FPT\Source\PRN231_Assignment\PRN231_Assignment.DomainModels\bin\Debug\net6.0\PRN231_Assignment.DomainModels.runtimeconfig.json
+D:\Private\FPT\Source\PRN231_Assignment\PRN231_Assignment.DomainModels\bin\Debug\net6.0\PRN231_Assignment.DomainModels.dll
+D:\Private\FPT\Source\PRN231_Assignment\PRN231_Assignment.DomainModels\bin\Debug\net6.0\PRN231_Assignment.DomainModels.pdb
+D:\Private\FPT\Source\PRN231_Assignment\PRN231_Assignment.DomainModels\obj\Debug\net6.0\PRN231_Assignment.DomainModels.csproj.AssemblyReference.cache
+D:\Private\FPT\Source\PRN231_Assignment\PRN231_Assignment.DomainModels\obj\Debug\net6.0\PRN231_Assignment.DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Private\FPT\Source\PRN231_Assignment\PRN231_Assignment.DomainModels\obj\Debug\net6.0\PRN231_Assignment.DomainModels.AssemblyInfoInputs.cache
+D:\Private\FPT\Source\PRN231_Assignment\PRN231_Assignment.DomainModels\obj\Debug\net6.0\PRN231_Assignment.DomainModels.AssemblyInfo.cs
+D:\Private\FPT\Source\PRN231_Assignment\PRN231_Assignment.DomainModels\obj\Debug\net6.0\PRN231_Assignment.DomainModels.csproj.CoreCompileInputs.cache
+D:\Private\FPT\Source\PRN231_Assignment\PRN231_Assignment.DomainModels\obj\Debug\net6.0\PRN231_Assignment.DomainModels.dll
+D:\Private\FPT\Source\PRN231_Assignment\PRN231_Assignment.DomainModels\obj\Debug\net6.0\refint\PRN231_Assignment.DomainModels.dll
+D:\Private\FPT\Source\PRN231_Assignment\PRN231_Assignment.DomainModels\obj\Debug\net6.0\PRN231_Assignment.DomainModels.pdb
+D:\Private\FPT\Source\PRN231_Assignment\PRN231_Assignment.DomainModels\obj\Debug\net6.0\PRN231_Assignment.DomainModels.genruntimeconfig.cache
+D:\Private\FPT\Source\PRN231_Assignment\PRN231_Assignment.DomainModels\obj\Debug\net6.0\ref\PRN231_Assignment.DomainModels.dll
